@@ -1,2 +1,3 @@
 aaaaaaaaaaaaaaaaaaaaa
-text3 from �T�u
+text3 from メイン
+UTF-8済み
